@@ -1,0 +1,9 @@
+https://www.javatpoint.com/data-structures-and-algorithms-in-python-set-1
+https://www.geeksforgeeks.org/python-list-exercise/
+https://www.geeksforgeeks.org/python-program-to-interchange-first-and-last-elements-in-a-list/
+https://www.w3resource.com/python-exercises/list/
+https://medium.com/@nishithakalathil/python-list-solved-exercises-9d117dd761b6
+https://www.google.com/search?q=list+methods+and+functions+in+python&oq=list+methods+and+functions&gs_lcrp=EgZjaHJvbWUqDAgAEAAYFBiHAhiABDIMCAAQABgUGIcCGIAEMgYIARBFGDkyCAgCEAAYFhgeMggIAxAAGBYYHjINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTINCAYQABiGAxiABBiKBTIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDgxMDBqMGo3qAIIsAIB&sourceid=chrome&ie=UTF-8
+https://www.w3schools.com/python/python_ref_list.asp
+
+https://www.prepbytes.com/blog/python/python-list-functions-python-list-methods/
